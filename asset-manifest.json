@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/eCommerce/static/css/main.073c9b0a.css",
-    "main.js": "/eCommerce/static/js/main.bb725c5e.js",
-    "index.html": "/eCommerce/index.html",
-    "main.073c9b0a.css.map": "/eCommerce/static/css/main.073c9b0a.css.map",
-    "main.bb725c5e.js.map": "/eCommerce/static/js/main.bb725c5e.js.map"
+    "main.css": "/AllFragrances/static/css/main.073c9b0a.css",
+    "main.js": "/AllFragrances/static/js/main.bb725c5e.js",
+    "index.html": "/AllFragrances/index.html",
+    "main.073c9b0a.css.map": "/AllFragrances/static/css/main.073c9b0a.css.map",
+    "main.bb725c5e.js.map": "/AllFragrances/static/js/main.bb725c5e.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
