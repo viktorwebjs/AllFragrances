@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AllFragrances/static/css/main.073c9b0a.css",
-    "main.js": "/AllFragrances/static/js/main.83e1509c.js",
+    "main.js": "/AllFragrances/static/js/main.96d3720a.js",
     "index.html": "/AllFragrances/index.html",
     "main.073c9b0a.css.map": "/AllFragrances/static/css/main.073c9b0a.css.map",
-    "main.83e1509c.js.map": "/AllFragrances/static/js/main.83e1509c.js.map"
+    "main.96d3720a.js.map": "/AllFragrances/static/js/main.96d3720a.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.83e1509c.js"
+    "static/js/main.96d3720a.js"
   ]
 }
