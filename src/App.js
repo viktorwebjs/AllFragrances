@@ -15,7 +15,7 @@ function App() {
           <Header />
         </div>
         <Routes>
-          <Route index path="" element={<Main />} />
+          <Route path="/" element={<Main />} />
           <Route path="AboutUs" element={<AboutUs />} />
           <Route path="Blog" element={<Blog />}></Route>
           <Route path="Contact" element={<Contact />}></Route>

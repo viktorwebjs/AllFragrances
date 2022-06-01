@@ -30,7 +30,7 @@ export default function Header() {
       <div className="wrapper">
         {links.map((i) => (
           <>
-            <Link key={i.id} to={`/${i.path}`} className="links">
+            <Link key={i.id} to={`${i.path}`} className="links">
               {i.title}
             </Link>
           </>
